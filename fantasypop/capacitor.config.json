@@ -1,0 +1,6 @@
+{
+	"appId": "io.ionic.starter",
+	"appName": "fantasypop",
+	"webDir": "www",
+	"bundledWebRuntime": false
+}

@@ -1,0 +1,7 @@
+{
+  "name": "fantasypop",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
